@@ -1,0 +1,7 @@
+export const ADD_BLOG='ADD_BLOG';
+export const DELETE_BLOG='DELETE_BLOG';
+export const ADD_COMMENT='ADD_COMMENT';
+export const DELETE_COMMENT='DELETE_COMMENT';
+export const UPDATE_BLOG = 'UPDATE_BLOG';
+export const LOAD_TITLES='LOAD_TITLES';
+export const UPDATE_VOTES='UPDATE_VOTES';
